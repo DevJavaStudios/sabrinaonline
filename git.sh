@@ -93,7 +93,9 @@ echo "depois disso, haverá um código qr...."
 sleep 1
 echo "Prepare 2 telefones celulares para suprimir o QR!!"
 sleep 2
-echo "carga......."
+echo "instalando pacote sabrina......"
 sleep 7
+toilet -f mono12 -F gay "Sabrina"
+sleep 8
 node index.js
 fi
