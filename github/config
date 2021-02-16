@@ -1,4 +1,3 @@
-
 [core]
 	repositoryformatversion = 0
 	filemode = true
@@ -10,4 +9,3 @@
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
-© 2021 GitHub, Inc.
