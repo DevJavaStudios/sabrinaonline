@@ -77,14 +77,14 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/Darkksinh/kp
+git clone https://github.com/DevJavaStudios/viu
 cd viu
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
-unzip w.zip
-cd w
+unzip corte-bot-main.zip
+cd corte-bot-main
 bash install.sh
 sleep 2
 echo ""
